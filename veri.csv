@@ -1,0 +1,224 @@
+Age,Income,Marital Status,Education,Credit History,Existing Debt,Credit Approval
+56,High,Single,University,Bad,4007,0
+46,Medium,Married,High School,Bad,2472,1
+32,Low,Married,University,Good,2660,0
+60,Medium,Married,University,Good,2739,1
+25,Medium,Married,University,Bad,1761,0
+38,Medium,Married,High School,Bad,3514,1
+56,High,Single,High School,Bad,1975,0
+36,High,Married,University,Bad,2362,0
+40,Low,Single,High School,Good,876,0
+28,Low,Single,University,Bad,3812,0
+28,High,Single,High School,Good,3448,1
+41,Medium,Married,University,Bad,1312,1
+53,Low,Single,University,Bad,1460,0
+57,High,Single,High School,Bad,2709,0
+41,High,Married,University,Bad,2324,0
+20,High,Single,High School,Bad,1733,0
+39,Medium,Single,University,Good,1605,1
+19,High,Married,University,Good,2563,1
+41,High,Single,High School,Bad,3421,1
+61,High,Single,High School,Bad,3517,0
+47,High,Single,High School,Good,2397,1
+55,Low,Married,University,Bad,3735,0
+19,Low,Married,High School,Bad,2870,0
+38,High,Married,University,Good,1160,1
+50,Medium,Single,University,Bad,4854,0
+29,Low,Single,High School,Bad,242,0
+39,High,Married,High School,Good,2590,1
+61,Low,Single,University,Good,1063,1
+42,Low,Single,University,Good,4324,1
+44,Medium,Married,High School,Bad,2595,1
+59,High,Married,High School,Good,919,1
+45,High,Single,High School,Good,5,1
+33,Medium,Single,High School,Good,467,0
+32,Medium,Single,High School,Good,4170,0
+64,High,Married,University,Good,3,1
+61,High,Married,University,Good,645,1
+20,Medium,Married,University,Bad,117,0
+54,Low,Married,University,Bad,2928,0
+24,Low,Single,High School,Good,2551,0
+38,Medium,Married,High School,Good,4289,1
+26,Low,Married,High School,Good,846,1
+56,Medium,Married,University,Bad,2762,0
+35,Low,Married,University,Bad,1141,0
+21,Low,Married,High School,Bad,1810,0
+42,High,Single,High School,Bad,723,0
+31,High,Single,University,Bad,224,1
+26,Low,Married,University,Bad,4627,0
+43,Low,Single,High School,Bad,4208,0
+19,High,Married,High School,Bad,4654,0
+37,High,Married,University,Bad,2048,0
+45,High,Single,High School,Good,4749,1
+64,Medium,Single,High School,Good,4415,1
+24,Low,Married,High School,Good,1573,1
+61,High,Married,University,Good,1828,1
+25,Low,Married,University,Bad,1917,0
+64,Medium,Single,University,Bad,4234,0
+52,Medium,Married,University,Good,2026,0
+31,High,Married,University,Bad,3744,1
+34,Medium,Married,University,Good,901,1
+53,Low,Single,University,Bad,4785,0
+57,High,Married,High School,Good,2039,1
+21,Low,Married,High School,Bad,9,0
+19,Low,Single,High School,Bad,260,0
+23,Medium,Married,High School,Good,1673,1
+59,Medium,Married,High School,Bad,2219,0
+21,Medium,Single,High School,Good,2060,1
+46,Medium,Married,High School,Good,3713,1
+35,Medium,Single,University,Good,1619,0
+43,High,Single,University,Good,320,1
+61,Low,Married,High School,Bad,1342,0
+51,Low,Married,High School,Bad,2376,0
+27,Low,Married,University,Bad,2832,0
+53,Low,Married,High School,Good,2824,0
+31,Medium,Single,High School,Bad,1994,0
+48,Low,Married,University,Good,2958,1
+32,High,Single,High School,Bad,2038,0
+25,High,Married,University,Bad,3490,1
+31,Low,Married,High School,Bad,3677,0
+40,Low,Married,University,Good,1118,1
+57,High,Single,University,Bad,1604,1
+38,High,Married,University,Bad,4027,0
+33,Medium,Married,High School,Good,235,1
+62,High,Married,University,Bad,1969,1
+35,Medium,Married,High School,Good,4429,1
+64,Medium,Single,High School,Bad,1908,0
+41,Medium,Married,High School,Good,375,1
+43,Medium,Single,High School,Good,3530,0
+42,Medium,Single,University,Bad,2635,0
+62,Low,Single,University,Good,1570,1
+58,High,Single,High School,Good,2560,1
+46,Medium,Single,High School,Good,3391,1
+32,High,Single,University,Good,2965,1
+62,High,Married,High School,Good,3643,1
+18,Medium,Single,University,Good,3850,1
+42,Low,Single,High School,Bad,872,0
+24,Medium,Single,High School,Good,1252,1
+26,Low,Married,University,Good,1314,1
+41,High,Married,High School,Bad,4820,0
+18,Low,Single,University,Bad,2898,0
+61,Low,Married,High School,Bad,77,0
+25,Low,Single,High School,Bad,2621,0
+41,High,Single,High School,Bad,4227,0
+28,High,Married,University,Bad,600,1
+34,Low,Single,High School,Bad,1065,0
+25,Low,Married,High School,Good,2136,1
+52,Medium,Married,High School,Good,2449,1
+52,Low,Single,High School,Bad,2343,0
+50,Medium,Single,University,Good,1863,1
+22,Low,Married,University,Good,1318,1
+59,Medium,Single,High School,Good,4711,1
+56,High,Single,University,Bad,3597,1
+58,Low,Single,High School,Bad,3762,0
+45,Low,Married,High School,Good,4670,1
+24,Low,Married,High School,Bad,2190,0
+26,Low,Single,University,Good,992,0
+25,Medium,Married,University,Good,2712,1
+29,Low,Married,University,Good,2192,0
+51,High,Married,University,Good,1248,1
+50,High,Married,University,Bad,3054,0
+40,Low,Married,University,Bad,4598,0
+41,High,Single,University,Bad,4033,0
+54,Low,Single,University,Good,1997,1
+52,Low,Single,University,Bad,4916,0
+61,High,Married,High School,Good,3687,1
+57,Low,Married,University,Bad,2151,0
+39,High,Single,University,Good,4018,1
+44,Medium,Married,University,Good,3110,1
+52,Low,Single,University,Good,1970,1
+18,Medium,Single,University,Bad,197,0
+52,High,Single,University,Bad,2626,1
+54,Medium,Married,University,Bad,1202,1
+64,Medium,Married,University,Bad,2035,1
+31,High,Single,University,Good,477,1
+20,Medium,Single,University,Bad,1254,1
+18,Medium,Single,University,Bad,922,1
+22,High,Single,High School,Good,419,1
+43,Medium,Married,High School,Good,2204,1
+31,High,Married,University,Good,2597,1
+56,Medium,Single,University,Bad,1120,1
+44,High,Single,High School,Good,3068,1
+26,High,Married,University,Good,950,1
+32,Medium,Married,High School,Good,2336,1
+32,Medium,Single,High School,Bad,2243,0
+43,Medium,Single,High School,Good,2645,1
+59,Low,Single,High School,Bad,1857,0
+30,Low,Married,High School,Bad,4612,0
+49,Low,Married,University,Good,1865,0
+56,High,Married,High School,Good,2912,1
+49,Medium,Single,University,Bad,2853,1
+21,High,Single,University,Good,4910,1
+47,Low,Married,High School,Good,3228,0
+54,Medium,Married,High School,Bad,3719,1
+40,High,Single,University,Bad,3228,0
+56,Medium,Married,High School,Good,2371,1
+62,High,Married,High School,Bad,2891,1
+32,Medium,Single,University,Good,3756,0
+60,Low,Married,University,Good,4225,1
+46,Low,Single,High School,Good,94,1
+53,Medium,Single,University,Bad,2674,0
+30,High,Single,High School,Good,1955,1
+49,Low,Single,High School,Good,793,0
+24,Low,Single,High School,Good,1834,0
+39,Low,Single,University,Bad,2116,0
+45,Medium,Single,University,Bad,4106,0
+19,Medium,Married,University,Bad,3325,1
+59,High,Single,University,Bad,2919,1
+62,High,Single,University,Bad,2597,1
+23,High,Married,High School,Good,3205,1
+45,Medium,Married,High School,Bad,4807,0
+45,Medium,Married,High School,Bad,814,0
+61,High,Single,High School,Bad,345,0
+61,High,Married,University,Good,2349,1
+37,Medium,Single,High School,Bad,362,1
+47,High,Single,University,Bad,2443,0
+28,Low,Single,High School,Good,2265,0
+45,Medium,Single,University,Bad,2188,1
+42,High,Married,University,Good,3005,1
+56,Medium,Married,High School,Good,3281,1
+50,Low,Single,High School,Good,984,1
+18,Medium,Single,High School,Good,1639,1
+44,Medium,Single,High School,Good,827,1
+30,Medium,Married,University,Bad,2730,1
+58,Medium,Single,High School,Good,3531,1
+20,Low,Single,High School,Good,4451,0
+56,Medium,Married,University,Bad,2935,0
+23,Medium,Married,High School,Good,3876,1
+25,High,Single,High School,Bad,126,1
+44,Medium,Married,High School,Bad,3177,0
+26,High,Married,High School,Bad,3056,0
+54,Low,Single,High School,Good,603,0
+50,Low,Married,University,Good,3449,0
+59,Low,Single,High School,Good,4146,1
+61,Low,Married,High School,Bad,3533,0
+41,High,Single,High School,Good,3367,1
+32,Medium,Single,High School,Good,3368,0
+49,Low,Single,High School,Good,3797,1
+49,Medium,Married,University,Bad,1792,0
+41,High,Single,High School,Bad,2861,1
+58,High,Married,University,Good,3476,1
+29,High,Single,University,Good,3417,1
+56,Low,Single,High School,Good,1645,1
+19,Medium,Married,High School,Good,1205,1
+20,Medium,Single,High School,Bad,3030,1
+54,Medium,Single,High School,Bad,2872,0
+34,High,Married,University,Bad,3072,0
+19,Low,Single,High School,Bad,1854,0
+19,High,Single,High School,Good,4021,1
+45,High,Single,High School,Good,4662,1
+40,Medium,Single,High School,Good,2708,1
+54,High,Married,High School,Bad,3502,0
+49,Medium,Married,High School,Good,1332,0
+50,Low,Single,University,Bad,201,0
+18,Medium,Married,University,Bad,3507,1
+36,Low,Single,High School,Good,4212,0
+19,Medium,Married,High School,Good,574,1
+61,High,Single,High School,Good,536,1
+43,High,Single,University,Bad,1625,0
+49,Low,Single,High School,Good,2122,1
+23,Low,Single,University,Bad,385,0
+49,Low,Single,High School,Good,3281,1
+21,Medium,Single,High School,Bad,474,1
+28,Medium,Married,High School,Bad,417,1
+34,Low,Single,High School,Good,3600,0
